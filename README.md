@@ -1,0 +1,6 @@
+- Well Hello 👋 
+- My profile name is thecatfix but you can call me John.
+-
+- 🌱 I’m currently learning ... Data Science
+- 💞️ I’m looking to collaborate on ... Data Ingestion and Data Monetization
+- 📫 How to reach me ... shelburne@catfixtechnology.com
