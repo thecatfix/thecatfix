@@ -3,4 +3,4 @@
 -
 - 🌱 I’m currently learning ... Data Science
 - 💞️ I’m looking to collaborate on ... Data Ingestion and Data Monetization
-- 📫 How to reach me ... shelburne@catfixtechnology.com
+- 📫 How to reach me ...john@catfix.biz
