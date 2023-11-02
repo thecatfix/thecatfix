@@ -17,4 +17,4 @@ determined search for Jackie Treehorns money in his toilet while under
 duress, I too delved deeper, undeterred by the metaphorical dunking of
 learning code under pressure.
 
-![alt text](thecatfix/gifs/wheresthemoney.gif)
+![Its_down_there_somewhere](https://github.com/thecatfix/gifs/blob/main/wheresthemoney.gif)
