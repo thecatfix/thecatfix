@@ -14,7 +14,9 @@ with explanations from youtube, generative AI and other sources on the web help 
 I find solace in humor, drawing parallels with The Dude's
 unflappable quest in 'The Big Lebowski.' Much like his comical yet
 determined search for Jackie Treehorns money in his toilet while under
-duress, I too delved deeper, undeterred by the metaphorical dunking of
-learning code under pressure.
+duress, I too will delve deeper, undeterred by the metaphorical dunking of concepts and code I don't understand.
+
+'It’s down there somewhere, let me take another look,'
+
 
 ![Its_down_there_somewhere](https://github.com/thecatfix/gifs/blob/main/wheresthemoney.gif)
