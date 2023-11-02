@@ -2,7 +2,7 @@ I am not a developer.
 
 I was the sales guy that all developers hated b/c I used to say "it can't be the hard to develop"
 
-Here is my story
+Here is my story:<br>
 A stroke of serendipity brought me into the orbit of pioneering minds at ING and Katana Labs, where I somehow acquired the
 creation of their state-of-the-art intellectual property. Over years of dedication, they refined an intricate architecture pivotal in
 pinpointing mean-reverting fixed income pair trades.
