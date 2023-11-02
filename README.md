@@ -1,6 +1,6 @@
 I am not a developer. 
 
-I was the sales guy that all developers hated b/c I used to say "it can't be the hard to develop"
+I was the sales guy that all developers hated b/c I used to say "it can't be that hard to develop"
 
 Here is my story:<br>
 A stroke of serendipity brought me into the orbit of pioneering minds at ING and Katana Labs, where I somehow acquired the
