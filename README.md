@@ -8,7 +8,7 @@ creation of their state-of-the-art intellectual property. Over years of dedicati
 pinpointing mean-reverting fixed income pair trades.
 
 Immersed in a sea of complex systems, I utilize anything and everything to help me learn the fundamentals of data engineering, devops and cloud ecosystems.
-Though the ascent of the learning curve is steep, the combination of the wealth of code I acquired
+My learning curve is steep butthe combination of the wealth of code I acquired
 with explanations from youtube, generative AI and other sources on the web help me shed light on so many concepts.
 
 I find solace in humor, drawing parallels with The Dude's
