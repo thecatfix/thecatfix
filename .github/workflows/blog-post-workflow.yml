@@ -18,4 +18,4 @@ jobs:
         with:
 
           feed_list: "https://www.catfix.biz/blog-feed.xml"
-          template: "<tr><td>$date</td><td>$title</td><td>$url</td></tr><td>$newline</td>"
+          template: $newline - [$title]($url)
