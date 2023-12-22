@@ -22,10 +22,4 @@ duress, I too will delve deeper, undeterred by the metaphorical dunking of conce
 ![Its_down_there_somewhere](https://github.com/thecatfix/gifs/blob/main/wheresthemoneylebowski.gif)
 
 # Experimenting with Posting Blogs On Github
-<!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><tr><td>Answers about the impact of the corporate sector purchase program using claude.ai</td><td>https://www.catfix.biz/posts/claude-s-answers-to-my-cspp-questions</td></tr><tr><td>Leverage Your Network</td><td>https://www.catfix.biz/posts/leverage-your-network</td></tr><tr><td>What&#39;s the difference between .com, .org, .io, .ai</td><td>https://www.catfix.biz/posts/what-s-the-difference-between-com-org-io-ai</td></tr><tr><td>Hey Siri....what&#39;s an epiphany</td><td>https://www.catfix.biz/posts/hey-siri-what-s-an-epiphany</td></tr><tr><td>Getting The Message</td><td>https://www.catfix.biz/posts/getting-the-message</td></tr><!-- BLOG-POST-LIST:END -->
