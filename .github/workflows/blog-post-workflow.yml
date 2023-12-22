@@ -16,6 +16,6 @@ jobs:
       - name: Pull in posts from blog
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          
+
           feed_list: "https://www.catfix.biz/blog-feed.xml"
-          template: "<tr><td>$title</td><td>$url</td></tr>"
+          template: "<tr><td>$date</td><td>$title</td><td>$url</td></tr><td>$newline</td>"
