@@ -17,4 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "POSTED"
-          feed_list: "https://www.catfix.biz/soggyblog/posted"
+          feed_list: "https://www.catfix.biz/blog-feed.xml"
