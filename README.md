@@ -22,9 +22,9 @@ duress, I too will delve deeper, undeterred by the metaphorical dunking of conce
 ![Its_down_there_somewhere](https://github.com/thecatfix/gifs/blob/main/wheresthemoneylebowski.gif)
 
 # Experimenting with Posting Blogs On Github
-<!-- BLOG-POST-LIST:START --><tr><td>Tue Aug 15 2023 1:44 AM</td><td>Answers about the impact of the corporate sector purchase program using claude.ai</td><td>https://www.catfix.biz/posts/claude-s-answers-to-my-cspp-questions</td></tr><td>
-</td><tr><td>Tue Jun 13 2023 5:00 AM</td><td>Leverage Your Network</td><td>https://www.catfix.biz/posts/leverage-your-network</td></tr><td>
-</td><tr><td>Mon May 22 2023 5:06 PM</td><td>What&#39;s the difference between .com, .org, .io, .ai</td><td>https://www.catfix.biz/posts/what-s-the-difference-between-com-org-io-ai</td></tr><td>
-</td><tr><td>Mon May 15 2023 1:50 AM</td><td>Hey Siri....what&#39;s an epiphany</td><td>https://www.catfix.biz/posts/hey-siri-what-s-an-epiphany</td></tr><td>
-</td><tr><td>Fri May 12 2023 1:22 AM</td><td>Getting The Message</td><td>https://www.catfix.biz/posts/getting-the-message</td></tr><td>
-</td><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+ - [Answers about the impact of the corporate sector purchase program using claude.ai](https://www.catfix.biz/posts/claude-s-answers-to-my-cspp-questions)
+ - [Leverage Your Network](https://www.catfix.biz/posts/leverage-your-network)
+ - [What&#39;s the difference between .com, .org, .io, .ai](https://www.catfix.biz/posts/what-s-the-difference-between-com-org-io-ai)
+ - [Hey Siri....what&#39;s an epiphany](https://www.catfix.biz/posts/hey-siri-what-s-an-epiphany)
+ - [Getting The Message](https://www.catfix.biz/posts/getting-the-message)<!-- BLOG-POST-LIST:END -->
