@@ -21,6 +21,6 @@ duress, I too will delve deeper, undeterred by the metaphorical dunking of conce
 
 ![Its_down_there_somewhere](https://github.com/thecatfix/gifs/blob/main/wheresthemoneylebowski.gif)
 
-# Blog posts
+# Experimenting with Posting Blogs On Github
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
