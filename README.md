@@ -4,7 +4,11 @@ Hello! <img src="https://media.giphy.com/media/qsG9kDQCJYuiO9JOtS/giphy.gif" wid
 First off I want to let you know that I am not a developer. So if I contribute to a project it was a mistake OR I figured out something and you just found someone that really wants to contribute. More than likely it will be the former rather than the latter.<br>
 
 I am in the process of learning:<br>
-Google Cloud <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTluenh0Z2d1dG9zMjFncTN5ZG94MGRibTB3cTdmOXIzYmd0dzVveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LpvRzoMpaL4FZkdXzM/giphy.gif" width="5%"> 
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTluenh0Z2d1dG9zMjFncTN5ZG94MGRibTB3cTdmOXIzYmd0dzVveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LpvRzoMpaL4FZkdXzM/giphy.gif" width="5%">  All Things Google Cloud
+
+ <img src="https://giphy.com/stickers/devrock-python-django-edr-LMt9638dO8dftAjtco"width="5%"> Python
+
+<img src="https://media.giphy.com/media/GrPgFtvyLlgElFiO7m/giphy.gif"> Machine Learning
 
 Here is my story:<br>
 A stroke of serendipity brought me into the orbit of pioneering minds at ING and Katana Labs, where I somehow acquired the
@@ -25,7 +29,7 @@ duress, I too will delve deeper, undeterred by the metaphorical dunking of conce
 'It’s down there somewhere, let me take another look,'
 
 
-![Its_down_there_somewhere](https://github.com/thecatfix/gifs/blob/main/wheresthemoneylebowski.gif)
+<img src="https://github.com/thecatfix/gifs/blob/main/wheresthemoneylebowski.gif" width="50%"
 
 # Posts From The Soggy Blog 
 <!-- BLOG-POST-LIST:START -->
