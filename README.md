@@ -1,4 +1,4 @@
-Hello! <img src="https://media.giphy.com/media/qsG9kDQCJYuiO9JOtS/giphy.gif" width="20%">
+<img src="https://media.giphy.com/media/qsG9kDQCJYuiO9JOtS/giphy.gif" width="20%">
 
 
 First off I want to let you know that I am not a developer. So if I contribute to a project it was a mistake OR I figured out something and you just found someone that really wants to contribute. More than likely it will be the former rather than the latter.<br>
