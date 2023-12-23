@@ -6,9 +6,9 @@ First off I want to let you know that I am not a developer. So if I contribute t
 I am in the process of learning:<br>
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTluenh0Z2d1dG9zMjFncTN5ZG94MGRibTB3cTdmOXIzYmd0dzVveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LpvRzoMpaL4FZkdXzM/giphy.gif" width="5%">  All Things Google Cloud
 
- <img src="https://giphy.com/stickers/devrock-python-django-edr-LMt9638dO8dftAjtco"width="5%"> Python
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzlwdHJ3cHN4eTdvanV5MmZrb2M1anVjNmRqb2JlOWF6OHFzN3J1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif"width="5%"> Python
 
-<img src="https://media.giphy.com/media/GrPgFtvyLlgElFiO7m/giphy.gif"> Machine Learning
+<img src="https://media.giphy.com/media/GrPgFtvyLlgElFiO7m/giphy.gif" width="5%"> Machine Learning
 
 Here is my story:<br>
 A stroke of serendipity brought me into the orbit of pioneering minds at ING and Katana Labs, where I somehow acquired the
