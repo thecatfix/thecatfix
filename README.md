@@ -29,7 +29,7 @@ duress, I too will delve deeper, undeterred by the metaphorical dunking of conce
 'It’s down there somewhere, let me take another look,'
 
 
-<img src="https://github.com/thecatfix/gifs/blob/main/wheresthemoneylebowski.gif" width="50%"
+<img src="https://github.com/thecatfix/gifs/blob/main/wheresthemoneylebowski.gif" width="50%">
 
 # Posts From The Soggy Blog 
 <!-- BLOG-POST-LIST:START -->
