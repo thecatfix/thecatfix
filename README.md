@@ -5,7 +5,8 @@
 
 ## First off I want to let you know that I am not a developer. So if I contribute to a project it was a mistake OR I figured out something and you just found someone that really wants to contribute. More than likely it will be the former rather than the latter.<br>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHJ0ZTA5bDI3bjhzbXI5a2c2cXB1dDlsaThjbHdzbm9sdGk5bWFmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TBf2czxR420jCORE0o/giphy.gif" width="5%"> Github blows my mind b/c of all of the fantastic resources. I clone, fork and copy in order to learn.
+
+**Github blows my mind b/c of all of the fantastic resources. I clone, fork and copy in order to learn.** <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHJ0ZTA5bDI3bjhzbXI5a2c2cXB1dDlsaThjbHdzbm9sdGk5bWFmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TBf2czxR420jCORE0o/giphy.gif" width="5%"> 
  
 
 ## I am in the process of learning:<br>
