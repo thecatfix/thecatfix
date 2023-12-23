@@ -3,7 +3,7 @@
 
 # First off I want to let you know that I am not a developer. So if I contribute to a project it was a mistake OR I figured out something and you just found someone that really wants to contribute. More than likely it will be the former rather than the latter.<br>
 
-##I am in the process of learning:<br>
+## I am in the process of learning:<br>
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTluenh0Z2d1dG9zMjFncTN5ZG94MGRibTB3cTdmOXIzYmd0dzVveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LpvRzoMpaL4FZkdXzM/giphy.gif" width="5%">  All Things Google Cloud
 
 <img src="https://media.giphy.com/media/UtEd87cLAH789bR5sk/giphy.gif" width="5%"> Python
