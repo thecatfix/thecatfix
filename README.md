@@ -21,7 +21,7 @@ duress, I too will delve deeper, undeterred by the metaphorical dunking of conce
 
 ![Its_down_there_somewhere](https://github.com/thecatfix/gifs/blob/main/wheresthemoneylebowski.gif)
 
-# Posts From The Soggy Blog - I figured out how to do this!!!
+# Posts From The Soggy Blog 
 <!-- BLOG-POST-LIST:START -->
  - [Answers about the impact of the corporate sector purchase program using claude.ai](https://www.catfix.biz/posts/claude-s-answers-to-my-cspp-questions)
  - [Leverage Your Network](https://www.catfix.biz/posts/leverage-your-network)
