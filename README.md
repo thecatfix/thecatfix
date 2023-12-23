@@ -1,7 +1,9 @@
 <img src="https://media.giphy.com/media/qsG9kDQCJYuiO9JOtS/giphy.gif" width="20%">
 
 
-# First off I want to let you know that I am not a developer. So if I contribute to a project it was a mistake OR I figured out something and you just found someone that really wants to contribute. More than likely it will be the former rather than the latter.<br>
+# First off I want to let you know that I am not a developer. So if I contribute to a project it was a mistake OR I figured out something and you just found someone that really wants to contribute. More than likely it will be the former rather than the latter.
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHJ0ZTA5bDI3bjhzbXI5a2c2cXB1dDlsaThjbHdzbm9sdGk5bWFmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TBf2czxR420jCORE0o/giphy.gif" width="5%"> Github blows my mind b/c of all of the fantastic resources. I clone, fork and copy in order to learn.
+ 
 
 ## I am in the process of learning:<br>
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTluenh0Z2d1dG9zMjFncTN5ZG94MGRibTB3cTdmOXIzYmd0dzVveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LpvRzoMpaL4FZkdXzM/giphy.gif" width="5%">  All Things Google Cloud
@@ -19,7 +21,6 @@ Immersed in a sea of complex systems, I utilize anything and everything to help 
 My learning curve is steep butthe combination of the wealth of code I acquired
 with explanations from youtube, generative AI and other sources on the web help me shed light on so many concepts.<br>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHJ0ZTA5bDI3bjhzbXI5a2c2cXB1dDlsaThjbHdzbm9sdGk5bWFmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TBf2czxR420jCORE0o/giphy.gif" width="5%"> Github blows my mind b/c of all of the fantastic resources. I clone, fork and copy in order to learn.
 
 I find solace in humor, drawing parallels with The Dude's
 unflappable quest in 'The Big Lebowski.' Much like his comical yet
