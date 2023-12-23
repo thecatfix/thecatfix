@@ -1,10 +1,10 @@
-Hello! <img src="https://media.giphy.com/media/qsG9kDQCJYuiO9JOtS/giphy.gif" width="5%"></a>
+Hello! <img src="https://media.giphy.com/media/qsG9kDQCJYuiO9JOtS/giphy.gif" width="20%">
 
 
-First off I want to let you know that I am not a developer. So if I contribute to a project it was a mistake OR I figured out something and you just found a junkee that wants to contribute. More than likely it will be the former rather than the latter.
+First off I want to let you know that I am not a developer. So if I contribute to a project it was a mistake OR I figured out something and you just found someone that really wants to contribute. More than likely it will be the former rather than the latter.<br>
 
-
-I was the sales guy that all developers hated b/c I used to say "it can't be that hard to develop"
+I am in the process of learning:<br>
+Google Cloud <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTluenh0Z2d1dG9zMjFncTN5ZG94MGRibTB3cTdmOXIzYmd0dzVveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LpvRzoMpaL4FZkdXzM/giphy.gif" width="60%"> 
 
 Here is my story:<br>
 A stroke of serendipity brought me into the orbit of pioneering minds at ING and Katana Labs, where I somehow acquired the
@@ -13,7 +13,9 @@ pinpointing mean-reverting fixed income pair trades.
 
 Immersed in a sea of complex systems, I utilize anything and everything to help me learn the fundamentals of data engineering, devops and cloud ecosystems.
 My learning curve is steep butthe combination of the wealth of code I acquired
-with explanations from youtube, generative AI and other sources on the web help me shed light on so many concepts.
+with explanations from youtube, generative AI and other sources on the web help me shed light on so many concepts.<br>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHJ0ZTA5bDI3bjhzbXI5a2c2cXB1dDlsaThjbHdzbm9sdGk5bWFmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TBf2czxR420jCORE0o/giphy.gif" width="50%"> Github blows my mind b/c of all of the fantastic resources. I clone, fork and copy in order to learn.
 
 I find solace in humor, drawing parallels with The Dude's
 unflappable quest in 'The Big Lebowski.' Much like his comical yet
