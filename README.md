@@ -11,7 +11,7 @@ Github blows my mind b/c of all of the fantastic resources. I clone, fork and co
 ## I am in the process of learning:<br>
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTluenh0Z2d1dG9zMjFncTN5ZG94MGRibTB3cTdmOXIzYmd0dzVveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LpvRzoMpaL4FZkdXzM/giphy.gif" width="5%"> [All Things Google Cloud](https://www.credential.net/d704cea3-c104-4441-a13d-e6154ca5d750?utm_medium=profile&utm_source=linktree&utm_campaign=google%20cloud%20certification)
 
-<img src="https://media.giphy.com/media/UtEd87cLAH789bR5sk/giphy.gif" width="5%"> Python
+<img src="https://media.giphy.com/media/UtEd87cLAH789bR5sk/giphy.gif" width="5%"> <br>[Python](https://automatetheboringstuff.com/)
 
 <img src="https://media.giphy.com/media/GrPgFtvyLlgElFiO7m/giphy.gif" width="5%"> [Decision Science, Artificial Intelligence and Machine Learning](https://onlineexeced.mccombs.utexas.edu/online-ai-machine-learning-course)
 
