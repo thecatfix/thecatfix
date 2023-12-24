@@ -13,9 +13,7 @@ Github blows my mind b/c of all of the fantastic resources. I clone, fork and co
 
 <img src="https://media.giphy.com/media/UtEd87cLAH789bR5sk/giphy.gif" width="5%"> Python
 
-<img src="https://media.giphy.com/media/GrPgFtvyLlgElFiO7m/giphy.gif" width="5%"> <br>
-
-[Decision Science, Artificial Intelligence and Machine Learning](https://onlineexeced.mccombs.utexas.edu/online-ai-machine-learning-course)
+<img src="https://media.giphy.com/media/GrPgFtvyLlgElFiO7m/giphy.gif" width="5%"> [Decision Science, Artificial Intelligence and Machine Learning](https://onlineexeced.mccombs.utexas.edu/online-ai-machine-learning-course)
 
 ## Here is my story:<br>
 A stroke of serendipity brought me into the orbit of pioneering minds at ING and Katana Labs, where I somehow acquired the
