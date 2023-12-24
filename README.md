@@ -4,7 +4,7 @@
 
 
 ## Let me start by making one thing absolutely clear: I'm not a developer.
-If you see a pull request from me, it was probably a mistake, OR I figured something out and you just stumbled upon someone who really wants to contribute. More than likely, it will be the former rather than the latter. <br> Github blows my mind because of its wealth of incredible resources and the vibrant community it hosts. <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHJ0ZTA5bDI3bjhzbXI5a2c2cXB1dDlsaThjbHdzbm9sdGk5bWFmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TBf2czxR420jCORE0o/giphy.gif" width="2%"> <br> I clone, fork and paste code into my experiments in order to learn.
+If you see a pull request from me, it was probably a mistake, OR I figured something out and you just stumbled upon someone who really wants to contribute. More than likely, it will be the former rather than the latter. <br> Github blows my mind because of its wealth of incredible resources and the vibrant community it hosts. <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHJ0ZTA5bDI3bjhzbXI5a2c2cXB1dDlsaThjbHdzbm9sdGk5bWFmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TBf2czxR420jCORE0o/giphy.gif" width="5%"> <br> I clone, fork and paste code into my experiments in order to learn.
  
 
 ### What Am I learning:<br>
