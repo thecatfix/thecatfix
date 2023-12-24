@@ -3,7 +3,7 @@
 
 
 
-## First off I want to let you know that I am not a developer. <br> So if I contribute to a project it was a mistake OR I figured out something and you just found someone that really wants to contribute. More than likely it will be the former rather than the latter.<br> Github blows my mind b/c of all of the fantastic resources. I clone, fork and copy in order to learn. <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHJ0ZTA5bDI3bjhzbXI5a2c2cXB1dDlsaThjbHdzbm9sdGk5bWFmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TBf2czxR420jCORE0o/giphy.gif" width="5%"> 
+## First off I want to let you know that I am not a developer. <br> So if I contribute to a project it was a mistake OR I figured out something and you just found someone that really wants to contribute. More than likely it will be the former rather than the latter.<br> Github blows my mind b/c of all of the fantastic resources. <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHJ0ZTA5bDI3bjhzbXI5a2c2cXB1dDlsaThjbHdzbm9sdGk5bWFmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TBf2czxR420jCORE0o/giphy.gif" width="5%"> <br> I clone, fork and paste code into my experiments in order to learn.
  
 
 ## I am in the process of learning:<br>
