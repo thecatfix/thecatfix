@@ -14,7 +14,7 @@ If you see a pull request from me, it was probably a mistake, OR I figured somet
 
 <img src="https://media.giphy.com/media/GrPgFtvyLlgElFiO7m/giphy.gif" width="5%"> [Decision Science, Artificial Intelligence and Machine Learning](https://onlineexeced.mccombs.utexas.edu/online-ai-machine-learning-course)
 
-## Here is my story:<br>
+## Here is my story<br>
 <p>A stroke of serendipity brought me into the orbit of pioneering minds at ING and Katana Labs, where I somehow acquired the creation of their state-of-the-art intellectual property. Over years of dedication, they refined an intricate architecture pivotal in pinpointing mean-reverting fixed income pair trades.<p>Immersed in a sea of complex systems, I utilize anything and everything to help me learn the fundamentals of data engineering, devops and cloud ecosystems.</p>My learning curve is steep butthe combination of the wealth of code I acquired with explanations from youtube, generative AI and other sources on the web help me shed light on so many concepts.</p> <p>I find solace in humor, drawing parallels with The Dude's unflappable quest in 'The Big Lebowski.' Much like his comical yet determined search for Jackie Treehorns money in his toilet while under duress, I too will delve deeper, undeterred by the metaphorical dunking of concepts and code I don't understand.</p>
 
 ### 'It’s down there somewhere, let me take another look,'
