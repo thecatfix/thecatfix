@@ -24,8 +24,8 @@ If you see a pull request from me, it was probably a mistake, OR I figured somet
 
 ### Posts From The Soggy Blog 
 <!-- BLOG-POST-LIST:START -->
+ - [Explaining Software Development for the Rest of Us](https://www.catfix.biz/posts/explaining-software-development-for-the-rest-of-us)
  - [Quick History of Apache Beam](https://www.catfix.biz/posts/beam-history)
  - [Answers about the impact of the corporate sector purchase program using claude.ai](https://www.catfix.biz/posts/claude-s-answers-to-my-cspp-questions)
  - [Leverage Your Network](https://www.catfix.biz/posts/leverage-your-network)
- - [What&#39;s the difference between .com, .org, .io, .ai](https://www.catfix.biz/posts/what-s-the-difference-between-com-org-io-ai)
- - [Hey Siri....what&#39;s an epiphany](https://www.catfix.biz/posts/hey-siri-what-s-an-epiphany)<!-- BLOG-POST-LIST:END -->
+ - [What&#39;s the difference between .com, .org, .io, .ai](https://www.catfix.biz/posts/what-s-the-difference-between-com-org-io-ai)<!-- BLOG-POST-LIST:END -->
