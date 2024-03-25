@@ -29,3 +29,6 @@ If you see a pull request from me, it was probably a mistake, OR I figured somet
  - [Answers about the impact of the corporate sector purchase program using claude.ai](https://www.catfix.biz/posts/claude-s-answers-to-my-cspp-questions)
  - [Leverage Your Network](https://www.catfix.biz/posts/leverage-your-network)
  - [What&#39;s the difference between .com, .org, .io, .ai](https://www.catfix.biz/posts/what-s-the-difference-between-com-org-io-ai)<!-- BLOG-POST-LIST:END -->
+
+
+<script async src="https://imgbb.com/upload.js" data-palette="black" data-auto-insert="html-embed-thumbnail"></script>
