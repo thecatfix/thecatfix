@@ -31,4 +31,4 @@ If you see a pull request from me, it was probably a mistake, OR I figured somet
  - [What&#39;s the difference between .com, .org, .io, .ai](https://www.catfix.biz/posts/what-s-the-difference-between-com-org-io-ai)<!-- BLOG-POST-LIST:END -->
 
 
-<script async src="https://imgbb.com/upload.js" data-palette="black" data-auto-insert="html-embed-thumbnail"></script>
+
