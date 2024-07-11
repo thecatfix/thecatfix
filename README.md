@@ -60,11 +60,11 @@ My plan for the future is to leverage all that I've learned to build a product a
 
 ### Posts From The Soggy Blog 
 <!-- BLOG-POST-LIST:START -->
+ - [Sooooo.....that&#39;s what a cluster is!!!](https://www.catfix.biz/posts/explain_a_cluster_to_me_as_if_i_was_15)
  - [Explaining Software Development for the Rest of Us](https://www.catfix.biz/posts/explaining-software-development-for-the-rest-of-us)
  - [Quick History of Apache Beam](https://www.catfix.biz/posts/beam-history)
  - [Answers about the impact of the corporate sector purchase program using claude.ai](https://www.catfix.biz/posts/claude-s-answers-to-my-cspp-questions)
- - [Leverage Your Network](https://www.catfix.biz/posts/leverage-your-network)
- - [What&#39;s the difference between .com, .org, .io, .ai](https://www.catfix.biz/posts/what-s-the-difference-between-com-org-io-ai)<!-- BLOG-POST-LIST:END -->
+ - [Leverage Your Network](https://www.catfix.biz/posts/leverage-your-network)<!-- BLOG-POST-LIST:END -->
 
 
 
