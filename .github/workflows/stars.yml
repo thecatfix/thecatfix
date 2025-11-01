@@ -1,0 +1,39 @@
+# Local command (requires 1Password CLI):
+# source venv/bin/activate && TOKEN=$(op item get o5xa5jyxlkboobcdwzw6n4ttoi --fields token --reveal) && python3 stars.py --token "$TOKEN" --user thecatfix --max 10
+
+name: "Generate Markdown for Starred Github Repository."
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install requests
+        run: pip install requests
+
+      - name: Generate starred repos markdown
+      run: |
+      python stars.py --token ${{ secrets.GH_TOKEN }} --user thecatfix --output README.md --max 100
+
+      - name: Commit and Push if Changed
+        run: |
+          git config --global user.name 'github-ci'
+          git config --global user.email 'john@catfix.biz'
+          if [[ `git status --porcelain` ]]; then
+            git add README.md
+            git commit -m "Update README.md with latest starred repos"
+            git push
+          else
+            echo "No changes to commit."
+          

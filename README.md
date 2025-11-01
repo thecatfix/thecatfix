@@ -71,3 +71,9 @@ My plan for the future is to leverage all that I've learned to build a product a
 
 
 
+
+
+## ⭐ thecatfix's Latest Starred Repositories
+
+- [nektos/act](https://github.com/nektos/act): Run your GitHub Actions locally 🚀
+- [yks0000/starred-repo-toc](https://github.com/yks0000/starred-repo-toc): Generates Markdown table for all Starred Repositories by a GitHub user.
