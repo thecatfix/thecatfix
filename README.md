@@ -55,7 +55,6 @@ My learning curve has been steep, and I currently consider myself a student. I'v
 
 ## What Now?
 My plan for the future is to leverage all that I've learned to build a product and business plan suited for the market. While Katana was originally designed for fixed income, I'm discovering that it has many more potential use cases.
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/catfix)
 
 ### 'It’s down there somewhere, let me take another look,'
 
