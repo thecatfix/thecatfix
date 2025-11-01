@@ -1,3 +1,6 @@
+# Local command (requires 1Password CLI):
+# source venv/bin/activate && TOKEN=$(op item get o5xa5jyxlkboobcdwzw6n4ttoi --fields token --reveal) && python3 stars.py --token "$TOKEN" --user thecatfix --max 10
+
 name: "Generate Markdown for Starred Github Repository."
 
 on:
@@ -20,8 +23,8 @@ jobs:
         run: pip install requests
 
       - name: Generate starred repos markdown
-        run: |
-          python starred_to_md.py --token ${{ secrets.GH_TOKEN }} --user thecatfix --output README.md --max 100
+      run: |
+      python stars.py --token ${{ secrets.GH_TOKEN }} --user thecatfix --output README.md --max 100
 
       - name: Commit and Push if Changed
         run: |
@@ -33,4 +36,4 @@ jobs:
             git push
           else
             echo "No changes to commit."
-          fi
+          
