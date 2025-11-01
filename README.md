@@ -59,7 +59,7 @@ My plan for the future is to leverage all that I've learned to build a product a
 ### 'It’s down there somewhere, let me take another look,'
 
 
-<img src="https://github.com/thecatfix/gifs/blob/main/wheresthemoneylebowski.gif" width="50%">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGFlOThkcHIxYWdobjE0ODQ0djg3MTdkczFydzBqb2o2b2t2eHl1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JPmjZal3DjRLGMAAxL/giphy.gif" width="50%">
 
 ### Posts From The Soggy Blog 
 <!-- BLOG-POST-LIST:START -->
