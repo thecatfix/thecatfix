@@ -11,6 +11,9 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
     steps:
       - uses: actions/checkout@v4
 
@@ -27,22 +30,31 @@ jobs:
           python stars.py --token ${{ secrets.GH_TOKEN }} --user thecatfix --output README.md --max 100
 
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v7
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "Update README.md with latest starred repos"
-          title: "🤖 Update starred repositories list"
-          body: |
-            ## 🤖 Automated Update
+        run: |
+          # Create a new branch for the PR
+          BRANCH_NAME="update-starred-repos-$(date +%Y%m%d-%H%M%S)"
 
-            This PR updates the README.md with the latest starred repositories from GitHub.
+          # Commit changes to new branch
+          git checkout -b "$BRANCH_NAME"
+          git add README.md
+          git commit -m "🤖 Update README.md with latest starred repos"
 
-            ### Changes
-            - Updated starred repositories list
-            - Generated automatically every 6 hours
+          # Push the branch
+          git push origin "$BRANCH_NAME"
 
-            ---
-            *This PR was automatically created by the [stars.yml](.github/workflows/stars.yml) workflow.*
-          branch: update-starred-repos
-          delete-branch: true
+          # Create PR using GitHub CLI
+          gh pr create \
+            --title "🤖 Update starred repositories list" \
+            --body "## 🤖 Automated Update
+
+          This PR updates the README.md with the latest starred repositories from GitHub.
+
+          ### Changes
+          - Updated starred repositories list
+          - Generated automatically every 6 hours
+
+          ---
+          *This PR was automatically created by the [stars.yml](.github/workflows/stars.yml) workflow.*" \
+            --base main \
+            --head "$BRANCH_NAME"
           
