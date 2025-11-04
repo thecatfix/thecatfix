@@ -17,8 +17,8 @@
       # issues: write        # Uncomment if managing issues
       # write-all            # Uncomment for everything (dangerous)
     
-    steps:
-      - uses: actions/checkout@v4
+    #steps:
+     # - uses: actions/checkout@v4
 
       # ============================================
       # PYTHON SETUP (uncomment if needed)
