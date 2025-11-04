@@ -31,16 +31,20 @@ jobs:
 
       - name: Create Pull Request
         run: |
-          # Create a new branch for the PR
-          BRANCH_NAME="update-starred-repos-$(date +%Y%m%d-%H%M%S)"
+        # Configure git for commits
+        git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+        # Create a new branch for the PR
+        BRANCH_NAME="update-starred-repos-$(date +%Y%m%d-%H%M%S)"
 
           # Commit changes to new branch
           git checkout -b "$BRANCH_NAME"
           git add README.md
           git commit -m "🤖 Update README.md with latest starred repos"
 
-          # Push the branch
-          git push origin "$BRANCH_NAME"
+        # Push the branch
+        git push origin "$BRANCH_NAME"
 
           # Create PR using GitHub CLI
           gh pr create \
