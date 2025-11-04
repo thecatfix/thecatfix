@@ -5,12 +5,18 @@ set -e
 git config --global user.name "github-actions[bot]"
 git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
+# Check if there are changes
+git add README.md
+if git diff --staged --quiet; then
+  echo "No changes to README.md, skipping PR creation"
+  exit 0
+fi
+
 # Create a new branch for the PR
 BRANCH_NAME="update-starred-repos-$(date +%Y%m%d-%H%M%S)"
 
 # Commit changes to new branch
 git checkout -b "$BRANCH_NAME"
-git add README.md
 git commit -m "🤖 Update README.md with latest starred repos"
 
 # Push the branch
