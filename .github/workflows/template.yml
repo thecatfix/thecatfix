@@ -1,19 +1,19 @@
 # GitHub Actions Workflow Template
 # Copy this file and customize for your needs
 
-name: "WORKFLOW_NAME_HERE"
+#name: "WORKFLOW_NAME_HERE"
 
-on:
-  schedule:
-    - cron: "0 */6 * * *"  # Every 6 hours - adjust as needed
-  workflow_dispatch:       # Enable manual triggers
+#on:
+  #schedule:
+   # - cron: "0 */6 * * *"  # Every 6 hours - adjust as needed
+  #workflow_dispatch:       # Enable manual triggers
 
-jobs:
+#jobs:
   build:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write        # Required for: commits, pushes
-      pull-requests: write   # Required for: creating PRs
+ #   runs-on: ubuntu-latest
+   # permissions:
+     # contents: write        # Required for: commits, pushes
+     # pull-requests: write   # Required for: creating PRs
       # issues: write        # Uncomment if managing issues
       # write-all            # Uncomment for everything (dangerous)
     
