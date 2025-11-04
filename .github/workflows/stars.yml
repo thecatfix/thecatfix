@@ -23,8 +23,8 @@ jobs:
         run: pip install requests
 
       - name: Generate starred repos markdown
-      run: |
-      python stars.py --token ${{ secrets.GH_TOKEN }} --user thecatfix --output README.md --max 100
+        run: |
+          python stars.py --token ${{ secrets.GH_TOKEN }} --user thecatfix --output README.md --max 100
 
       - name: Commit and Push if Changed
         run: |
@@ -36,4 +36,5 @@ jobs:
             git push
           else
             echo "No changes to commit."
+          fi
           
