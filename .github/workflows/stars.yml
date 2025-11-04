@@ -26,15 +26,23 @@ jobs:
         run: |
           python stars.py --token ${{ secrets.GH_TOKEN }} --user thecatfix --output README.md --max 100
 
-      - name: Commit and Push if Changed
-        run: |
-          git config --global user.name 'github-ci'
-          git config --global user.email 'john@catfix.biz'
-          if [[ `git status --porcelain` ]]; then
-            git add README.md
-            git commit -m "Update README.md with latest starred repos"
-            git push
-          else
-            echo "No changes to commit."
-          fi
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "Update README.md with latest starred repos"
+          title: "🤖 Update starred repositories list"
+          body: |
+            ## 🤖 Automated Update
+
+            This PR updates the README.md with the latest starred repositories from GitHub.
+
+            ### Changes
+            - Updated starred repositories list
+            - Generated automatically every 6 hours
+
+            ---
+            *This PR was automatically created by the [stars.yml](.github/workflows/stars.yml) workflow.*
+          branch: update-starred-repos
+          delete-branch: true
           
