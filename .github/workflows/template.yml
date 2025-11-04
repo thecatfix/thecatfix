@@ -1,0 +1,70 @@
+# GitHub Actions Workflow Template
+# Copy this file and customize for your needs
+
+name: "WORKFLOW_NAME_HERE"
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # Every 6 hours - adjust as needed
+  workflow_dispatch:       # Enable manual triggers
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write        # Required for: commits, pushes
+      pull-requests: write   # Required for: creating PRs
+      # issues: write        # Uncomment if managing issues
+      # write-all            # Uncomment for everything (dangerous)
+    
+    steps:
+      - uses: actions/checkout@v4
+
+      # ============================================
+      # PYTHON SETUP (uncomment if needed)
+      # ============================================
+      # - name: Set up Python
+      #   uses: actions/setup-python@v5
+      #   with:
+      #     python-version: "3.x"
+      #
+      # - name: Install dependencies
+      #   run: pip install requests
+      #   # OR: pip install -r requirements.txt
+
+      # ============================================
+      # NODE SETUP (uncomment if needed)
+      # ============================================
+      # - name: Set up Node
+      #   uses: actions/setup-node@v4
+      #   with:
+      #     node-version: "20"
+      #
+      # - name: Install dependencies
+      #   run: npm ci
+
+      # ============================================
+      # YOUR CUSTOM STEPS
+      # ============================================
+      # - name: Run your script
+      #   run: |
+      #     # Your commands here
+      #   env:
+      #     GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+      # ============================================
+      # CREATE PR (if using PR workflow)
+      # ============================================
+      # - name: Create Pull Request
+      #   run: .github/scripts/create-pr.sh
+      #   env:
+      #     GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+# ============================================
+# COMMON CRON SCHEDULES
+# ============================================
+# "0 */6 * * *"    # Every 6 hours
+# "0 0 * * *"      # Daily at midnight
+# "0 0 * * 0"      # Weekly on Sunday
+# "0 0 1 * *"      # Monthly on 1st
+# "*/15 * * * *"   # Every 15 minutes

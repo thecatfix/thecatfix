@@ -4,14 +4,15 @@ import os
 
 
 def fetch_starred_repos(username, token, max_repos=10):
-    repos = []
+    """Fetch starred repos using REST API."""
+    starred = []
     page = 1
     headers = {
         "Authorization": f"token {token}",
         "Accept": "application/vnd.github+json",
     }
 
-    while len(repos) < max_repos:
+    while len(starred) < max_repos:
         url = (
             f"https://api.github.com/users/{username}/starred?page={page}&per_page=100"
         )
@@ -19,20 +20,116 @@ def fetch_starred_repos(username, token, max_repos=10):
         if resp.status_code != 200:
             print(f"Failed to fetch starred repos: {resp.status_code} {resp.text}")
             sys.exit(1)
-        page_repos = resp.json()
-        if not page_repos:
+        page_starred = resp.json()
+        if not page_starred:
             break
-        repos.extend(page_repos)
+        starred.extend(page_starred)
         page += 1
-    return repos[:max_repos]
+    return starred[:max_repos]
 
 
-def generate_markdown(repos, username):
-    md = f"\n\n## ⭐ {username}'s Latest Starred Repositories\n\n"
-    for repo in repos:
+def fetch_starred_repos_graphql(username, token, max_repos=10):
+    """Fetch starred repos using GraphQL API."""
+    url = "https://api.github.com/graphql"
+    headers = {
+        "Authorization": f"Bearer {token}",
+        "Content-Type": "application/json",
+    }
+
+    query = """
+    query($login: String!, $first: Int!) {
+      user(login: $login) {
+        starredRepositories(first: $first, orderBy: {field: STARRED_AT, direction: DESC}) {
+          edges {
+            starredAt
+            node {
+              name
+              owner {
+                login
+              }
+              description
+              url
+              repositoryTopics(first: 5) {
+                edges {
+                  node {
+                    topic {
+                      name
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    """
+
+    variables = {"login": username, "first": max_repos}
+
+    resp = requests.post(
+        url, json={"query": query, "variables": variables}, headers=headers
+    )
+
+    if resp.status_code != 200:
+        print(f"GraphQL query failed: {resp.status_code} {resp.text}")
+        return []
+
+    data = resp.json()
+
+    starred = []
+    if "data" in data and data["data"]["user"]["starredRepositories"]["edges"]:
+        for edge in data["data"]["user"]["starredRepositories"]["edges"]:
+            repo = edge["node"]
+            starred.append(
+                {
+                    "name": repo["name"],
+                    "full_name": f"{repo['owner']['login']}/{repo['name']}",
+                    "description": repo["description"] or "",
+                    "html_url": repo["url"],
+                    "starred_at": edge["starredAt"],
+                    "topics": [
+                        topic_edge["node"]["topic"]["name"]
+                        for topic_edge in repo["repositoryTopics"]["edges"]
+                    ],
+                }
+            )
+
+    return starred
+
+
+def generate_markdown(starred, username):
+    """Generate basic markdown from starred repos."""
+    markdown = f"\n\n## ⭐ {username}'s Latest Starred Repositories\n\n"
+    for repo in starred:
         desc = repo["description"] or ""
-        md += f"- [{repo['full_name']}]({repo['html_url']}): {desc}\n"
-    return md
+        markdown += f"- [{repo['full_name']}]({repo['html_url']}): {desc}\n"
+    return markdown
+
+
+def generate_enhanced_markdown(starred, username):
+    """Generate enhanced markdown with topics and star dates."""
+    markdown = f"\n\n## ⭐ {username}'s Latest Starred Repositories\n\n"
+    markdown += "| Repository | Description | Topics | Starred |\n"
+    markdown += "|------------|-------------|--------|---------|\n"
+
+    for repo in starred:
+        name = repo["full_name"]
+        desc = (
+            (repo["description"][:60] + "...")
+            if len(repo["description"]) > 60
+            else repo["description"]
+        )
+        topics = ", ".join(
+            repo.get("topics", [])[:3]
+        )  # Handle missing topics gracefully
+        starred_date = repo.get("starred_at", "")[:10]  # Handle missing date
+
+        markdown += (
+            f"| [{name}]({repo['html_url']}) | {desc} | {topics} | {starred_date} |\n"
+        )
+
+    return markdown
 
 
 def update_readme_with_starred_repos(output_file, new_md, username):
@@ -82,13 +179,20 @@ def main():
     parser.add_argument("--user", required=True, help="GitHub username")
     parser.add_argument("--output", default="README.md", help="Output Markdown file")
     parser.add_argument("--max", type=int, default=10, help="Max number of repos")
+    parser.add_argument(
+        "--graphql", action="store_true", help="Use GraphQL API with enhanced features"
+    )
     args = parser.parse_args()
 
-    repos = fetch_starred_repos(args.user, args.token, args.max)
-    md = generate_markdown(repos, args.user)
+    if args.graphql:
+        starred = fetch_starred_repos_graphql(args.user, args.token, args.max)
+        markdown = generate_enhanced_markdown(starred, args.user)
+    else:
+        starred = fetch_starred_repos(args.user, args.token, args.max)
+        markdown = generate_markdown(starred, args.user)
 
     # Update README.md by replacing existing starred repos section or appending if not found
-    update_readme_with_starred_repos(args.output, md, args.user)
+    update_readme_with_starred_repos(args.output, markdown, args.user)
 
 
 if __name__ == "__main__":
