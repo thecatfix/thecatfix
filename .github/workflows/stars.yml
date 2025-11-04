@@ -31,4 +31,6 @@ jobs:
 
       - name: Create Pull Request
         run: .github/scripts/create-pr.sh
+        env:
+          GPG_PRIVATE_KEY: ${{ secrets.GPG_PRIVATE_KEY }}
           
