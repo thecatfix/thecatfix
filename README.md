@@ -80,6 +80,7 @@ My plan for the future is to leverage all that I've learned to build a product a
 
 ## ⭐ thecatfix's Latest Starred Repositories
 
+- [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills): A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
 - [and-rs/dotfiles](https://github.com/and-rs/dotfiles): i love fzf
 - [superstarryeyes/lue](https://github.com/superstarryeyes/lue): Terminal eBook Reader with Text-to-Speech
 - [ThePrimeagen/dev](https://github.com/ThePrimeagen/dev): my next gen build for starting my system
@@ -179,4 +180,3 @@ My plan for the future is to leverage all that I've learned to build a product a
 - [SylvanFranklin/omni-preview.nvim](https://github.com/SylvanFranklin/omni-preview.nvim): Manage previews for all filetypes in neovim
 - [SylvanFranklin/.config](https://github.com/SylvanFranklin/.config): Secret Forum
 - [lballabio/QuantLib](https://github.com/lballabio/QuantLib): The QuantLib C++ library
-- [janlukasschroeder/sec-api](https://github.com/janlukasschroeder/sec-api): sec.gov EDGAR API | search & filter SEC filings | over 150 form types supported | 10-Q, 10-K, 8, 4, 13, S-11, ... | insider trading
