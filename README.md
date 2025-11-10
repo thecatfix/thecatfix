@@ -80,6 +80,8 @@ My plan for the future is to leverage all that I've learned to build a product a
 
 ## ⭐ thecatfix's Latest Starred Repositories
 
+- [archcraft-os/archcraft](https://github.com/archcraft-os/archcraft): // Source : ISO
+- [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills): A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
 - [and-rs/dotfiles](https://github.com/and-rs/dotfiles): i love fzf
 - [superstarryeyes/lue](https://github.com/superstarryeyes/lue): Terminal eBook Reader with Text-to-Speech
 - [ThePrimeagen/dev](https://github.com/ThePrimeagen/dev): my next gen build for starting my system
@@ -127,7 +129,7 @@ My plan for the future is to leverage all that I've learned to build a product a
 - [deepseek-ai/DeepSeek-V3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp): 
 - [sjarmak/deploy-sourcegraph-docker](https://github.com/sjarmak/deploy-sourcegraph-docker): Sourcegraph with Docker Compose deployment reference
 - [sjarmak/amp-orchestra-sdk](https://github.com/sjarmak/amp-orchestra-sdk): 
-- [sjarmak/amp-session-orchestrator](https://github.com/sjarmak/amp-session-orchestrator): 
+- [sourcegraph-sj/amp-session-orchestrator](https://github.com/sourcegraph-sj/amp-session-orchestrator): 
 - [sphamba/smear-cursor.nvim](https://github.com/sphamba/smear-cursor.nvim): 🌠 Neovim plugin to animate the cursor with a smear effect in all terminals
 - [folke/dot](https://github.com/folke/dot): ☕️   My Dot Files
 - [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview): GitHub CLI extension to preview Markdown looks like GitHub.
@@ -178,5 +180,3 @@ My plan for the future is to leverage all that I've learned to build a product a
 - [brianhuster/live-preview.nvim](https://github.com/brianhuster/live-preview.nvim): A Live Preview Plugin for Neovim that allows you to view Markdown, HTML (along with CSS, JavaScript), AsciiDoc, SVG files in a web browser with live updates.
 - [SylvanFranklin/omni-preview.nvim](https://github.com/SylvanFranklin/omni-preview.nvim): Manage previews for all filetypes in neovim
 - [SylvanFranklin/.config](https://github.com/SylvanFranklin/.config): Secret Forum
-- [lballabio/QuantLib](https://github.com/lballabio/QuantLib): The QuantLib C++ library
-- [janlukasschroeder/sec-api](https://github.com/janlukasschroeder/sec-api): sec.gov EDGAR API | search & filter SEC filings | over 150 form types supported | 10-Q, 10-K, 8, 4, 13, S-11, ... | insider trading
