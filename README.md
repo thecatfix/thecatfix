@@ -80,8 +80,16 @@ My plan for the future is to leverage all that I've learned to build a product a
 
 ## ⭐ thecatfix's Latest Starred Repositories
 
-- [and-rs/dotfiles](https://github.com/and-rs/dotfiles): i love fzf
-- [superstarryeyes/lue](https://github.com/superstarryeyes/lue): Terminal eBook Reader with Text-to-Speech
+- [mikavilpas/yazi.nvim](https://github.com/mikavilpas/yazi.nvim): A Neovim Plugin for the yazi terminal file manager
+- [go-gitea/gitea](https://github.com/go-gitea/gitea): Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+- [nicolashainaux/sphinx-autodoc-annotation](https://github.com/nicolashainaux/sphinx-autodoc-annotation): Use Python 3 annotations in sphinx-enabled docstrings
+- [mgaitan/sphinxcontrib-mermaid](https://github.com/mgaitan/sphinxcontrib-mermaid): Mermaid diagrams in yours sphinx powered docs
+- [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim): A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
+- [mrjones2014/op.nvim](https://github.com/mrjones2014/op.nvim): 🔑 1Password for Neovim! Built using the 1Password CLI, Go, and Lua.
+- [archcraft-os/archcraft](https://github.com/archcraft-os/archcraft): // Source : ISO
+- [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills): A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
+- [and-rs/dotfiles](https://github.com/and-rs/dotfiles): More dependencies !!!
+- [superstarryeyes/lue](https://github.com/superstarryeyes/lue): Terminal eBook Reader with Audiobook-Quality Text-to-Speech — Supports EPUB, PDF, DOC, DOCX, HTML, RTF, TXT, and MD.
 - [ThePrimeagen/dev](https://github.com/ThePrimeagen/dev): my next gen build for starting my system
 - [ThePrimeagen/tmux-sessionizer](https://github.com/ThePrimeagen/tmux-sessionizer): 
 - [nektos/act](https://github.com/nektos/act): Run your GitHub Actions locally 🚀
@@ -127,7 +135,7 @@ My plan for the future is to leverage all that I've learned to build a product a
 - [deepseek-ai/DeepSeek-V3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp): 
 - [sjarmak/deploy-sourcegraph-docker](https://github.com/sjarmak/deploy-sourcegraph-docker): Sourcegraph with Docker Compose deployment reference
 - [sjarmak/amp-orchestra-sdk](https://github.com/sjarmak/amp-orchestra-sdk): 
-- [sjarmak/amp-session-orchestrator](https://github.com/sjarmak/amp-session-orchestrator): 
+- [sourcegraph-sj/amp-session-orchestrator](https://github.com/sourcegraph-sj/amp-session-orchestrator): 
 - [sphamba/smear-cursor.nvim](https://github.com/sphamba/smear-cursor.nvim): 🌠 Neovim plugin to animate the cursor with a smear effect in all terminals
 - [folke/dot](https://github.com/folke/dot): ☕️   My Dot Files
 - [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview): GitHub CLI extension to preview Markdown looks like GitHub.
@@ -138,7 +146,7 @@ My plan for the future is to leverage all that I've learned to build a product a
 - [dive-into-machine-learning/dive-into-machine-learning](https://github.com/dive-into-machine-learning/dive-into-machine-learning): Free ways to dive into machine learning with Python and Jupyter Notebook. Notebooks, courses, and other links. (First posted in 2016.)
 - [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui): A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
-- [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter): Admin Dashboard Starter with Nextjs 15 and Shadcn ui
+- [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter): Admin Dashboard Starter Template with Next.js 16 and Shadcn UI
 - [DariusLukasukas/stocks](https://github.com/DariusLukasukas/stocks): Modern stock tracking application built with Next.js 14, React.js, Shadcn and Tailwind CSS. Leverages the Yahoo Finance API for real-time quotes, company financials, customizable charts, and relevant market news.
 - [neovim/tree-sitter-vimdoc](https://github.com/neovim/tree-sitter-vimdoc): Tree-sitter parser for Vim help files
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide): A guide to using Lua in Neovim
@@ -163,7 +171,7 @@ My plan for the future is to leverage all that I've learned to build a product a
 - [dontriskit/awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts): 🧠 Curated collection of system prompts for top AI tools. Perfect for AI agent builders and prompt engineers. Incuding: ChatGPT, Claude, Perplexity, Manus, Claude-Code, Loveable, v0, Grok, same new, windsurf, notion, and MetaAI. 
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable): 🔥 Clone and recreate any website as a modern React app in seconds
 - [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim): Neovim file explorer: edit your filesystem like a buffer
-- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft): Distributed query engine providing simple and reliable data processing for any modality and scale
+- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft): High-performance data engine for AI and multimodal workloads. Process images, audio, video, and structured data at any scale
 - [GothenburgBitFactory/clog](https://github.com/GothenburgBitFactory/clog): Clog is a colorized log tail utility
 - [facundoolano/google-play-scraper](https://github.com/facundoolano/google-play-scraper): Node.js scraper to get data from Google Play
 - [GothenburgBitFactory/timewarrior](https://github.com/GothenburgBitFactory/timewarrior): Timewarrior - Commandline Time Tracking and Reporting
@@ -172,11 +180,3 @@ My plan for the future is to leverage all that I've learned to build a product a
 - [chomosuke/typst-preview.nvim](https://github.com/chomosuke/typst-preview.nvim): Low latency typst preview for Neovim
 - [hulufei/diary.nvim](https://github.com/hulufei/diary.nvim): A simple and efficient diary plugin for Neovim
 - [toppair/peek.nvim](https://github.com/toppair/peek.nvim): Markdown preview plugin for Neovim
-- [wallpants/github-preview.nvim](https://github.com/wallpants/github-preview.nvim): Live Preview of your Markdown (GFM) files & local git repositories for Neovim.
-- [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim): Plugin to improve viewing Markdown files in Neovim
-- [hat0uma/csvview.nvim](https://github.com/hat0uma/csvview.nvim): A Neovim plugin for CSV file editing.
-- [brianhuster/live-preview.nvim](https://github.com/brianhuster/live-preview.nvim): A Live Preview Plugin for Neovim that allows you to view Markdown, HTML (along with CSS, JavaScript), AsciiDoc, SVG files in a web browser with live updates.
-- [SylvanFranklin/omni-preview.nvim](https://github.com/SylvanFranklin/omni-preview.nvim): Manage previews for all filetypes in neovim
-- [SylvanFranklin/.config](https://github.com/SylvanFranklin/.config): Secret Forum
-- [lballabio/QuantLib](https://github.com/lballabio/QuantLib): The QuantLib C++ library
-- [janlukasschroeder/sec-api](https://github.com/janlukasschroeder/sec-api): sec.gov EDGAR API | search & filter SEC filings | over 150 form types supported | 10-Q, 10-K, 8, 4, 13, S-11, ... | insider trading
