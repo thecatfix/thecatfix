@@ -76,8 +76,7 @@ From 2020 to 2021, I launched a revolutionary machine learning platform that ana
 ### ✍️ Posts From [The Soggy Blog](https://www.catfix.biz)
 
 <!-- BLOG-POST-LIST:START -->
-
-- [The LEI is the key &#38; the key is the LEI](https://www.catfix.biz/posts/the-lei-is-the-key-the-key-is-the-lei)
+- **Latest: [The LEI is the key &#38; the key is the LEI](https://www.catfix.biz/posts/the-lei-is-the-key-the-key-is-the-lei)** 🚀
 - [Where the hell did my axe go?](https://www.catfix.biz/posts/where-the-hell-did-my-axe-go)
 - [Sooooo.....that's what a cluster is!!!](https://www.catfix.biz/posts/explain_a_cluster_to_me_as_if_i_was_15)
 - [Explaining Software Development for the Rest of Us](https://www.catfix.biz/posts/explaining-software-development-for-the-rest-of-us)
