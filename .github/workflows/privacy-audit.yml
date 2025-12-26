@@ -1,0 +1,30 @@
+name: Privacy Audit
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Scan for local paths
+        run: |
+          # Patterns for local paths (/mnt/data, /Users, C:\Users)
+          PATTERNS=("/mnt/data/" "/Users/" "[a-zA-Z]:\\\\Users\\\\")
+          
+          EXIT_CODE=0
+          for pattern in "${PATTERNS[@]}"; do
+            echo "Scanning for pattern: $pattern"
+            # Grep for pattern, exclude .git, return 1 if found
+            if grep -rEi "$pattern" . --exclude-dir=.git --exclude=".github/workflows/privacy-audit.yml"; then
+              echo "Error: Potential local path leakage detected for pattern '$pattern'."
+              EXIT_CODE=1
+            fi
+          done
+          
+          exit $EXIT_CODE
