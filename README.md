@@ -97,7 +97,7 @@ An agentic AI engine that reverse-engineers the job market. It automates market 
 
 ---
 
-### ⭐ Latest Starred Repositories
+### ⭐ thecatfix's Latest Starred Repositories
 
 <!-- This list is dynamically updated -->
 
