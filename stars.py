@@ -8,7 +8,7 @@ def fetch_starred_repos(username, token, max_repos=10):
     starred = []
     page = 1
     headers = {
-        "Authorization": f"token {token}",
+        "Authorization": f"Bearer {token}",
         "Accept": "application/vnd.github+json",
     }
 

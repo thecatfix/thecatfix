@@ -27,10 +27,10 @@ jobs:
 
       - name: Generate starred repos markdown
         run: |
-          python stars.py --token ${{ secrets.GH_TOKEN }} --user thecatfix --output README.md --max 100
+          python stars.py --token ${{ secrets.GITHUB_TOKEN }} --user thecatfix --output README.md --max 100
 
       - name: Create Pull Request
         run: .github/scripts/create-pr.sh
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
