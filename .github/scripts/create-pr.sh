@@ -29,8 +29,9 @@ if [ -z "$PR_EXISTS" ]; then
   # Create PR using GitHub CLI if it doesn't exist
   gh pr create \
     --title "🤖 Update starred repositories list" \
-    --body "## 🤖 Automated Update
-    
+    --body "$(cat <<EOF
+## 🤖 Automated Update
+
 This PR updates the README.md with the latest starred repositories from GitHub.
 
 ### Changes
@@ -38,7 +39,9 @@ This PR updates the README.md with the latest starred repositories from GitHub.
 - Generated automatically every 6 hours
 
 ---
-*This PR was automatically created by the [stars.yml](.github/workflows/stars.yml) workflow.*" \
+*This PR was automatically created by the [stars.yml](.github/workflows/stars.yml) workflow.*
+EOF
+)" \
     --base main \
     --head "$BRANCH_NAME"
 else
