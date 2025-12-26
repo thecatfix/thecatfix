@@ -63,13 +63,6 @@ From 2020 to 2021, I launched a revolutionary machine learning platform that ana
 
 ---
 
-### 🚀 Featured Project: [GetJob](https://github.com/thecatfix/GetJob)
-
-**Intelligent Career & Skill Orchestration System**
-An agentic AI engine that reverse-engineers the job market. It automates market intelligence by scraping live listings, matching against industry-standard skill taxonomies (LightCast), and managing a fleet of specialized sub-agents.
-
----
-
 ### 🎓 Education & Milestones
 
 **University of Texas at Austin (McCombs School of Business)**
@@ -101,7 +94,7 @@ An agentic AI engine that reverse-engineers the job market. It automates market 
 
 - [simonw/claude-code-transcripts](https://github.com/simonw/claude-code-transcripts): Tools for publishing transcripts for Claude Code sessions
 - [GainSec/anti-crime-ecosystem-research](https://github.com/GainSec/anti-crime-ecosystem-research): Independent research white paper by Jon “GainSec” Gaines examining the security posture of a connected public safety technology ecosystem.
-- [mistweaverco/bananas](https://github.com/mistweaverco/bananas): Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡. 
+- [mistweaverco/bananas](https://github.com/mistweaverco/bananas): Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.
 - [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim): A fully-featured 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.
 - [dunst-project/dunst](https://github.com/dunst-project/dunst): Lightweight and customizable notification daemon
 - [archlinux/aurweb](https://github.com/archlinux/aurweb): Hosting platform for the Arch User Repository (AUR), a collection of packaging scripts created by the Arch Linux community (read-only mirror)
@@ -124,7 +117,7 @@ An agentic AI engine that reverse-engineers the job market. It automates market 
 - [and-rs/dotfiles](https://github.com/and-rs/dotfiles): More dependencies !!!
 - [superstarryeyes/lue](https://github.com/superstarryeyes/lue): Terminal eBook Reader with Audiobook-Quality Text-to-Speech — Supports EPUB, PDF, DOCX, HTML, RTF, TXT, and MD.
 - [ThePrimeagen/dev](https://github.com/ThePrimeagen/dev): my next gen build for starting my system
-- [ThePrimeagen/tmux-sessionizer](https://github.com/ThePrimeagen/tmux-sessionizer): 
+- [ThePrimeagen/tmux-sessionizer](https://github.com/ThePrimeagen/tmux-sessionizer):
 - [nektos/act](https://github.com/nektos/act): Run your GitHub Actions locally 🚀
 - [yks0000/starred-repo-toc](https://github.com/yks0000/starred-repo-toc): Generates Markdown table for all Starred Repositories by a GitHub user.
 - [Dicklesworthstone/mcp_agent_mail](https://github.com/Dicklesworthstone/mcp_agent_mail): Like gmail for your coding agents. Lets various different agents communicate and coordinate with each other.
@@ -134,19 +127,19 @@ An agentic AI engine that reverse-engineers the job market. It automates market 
 - [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim): :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
 - [folke/snacks.nvim](https://github.com/folke/snacks.nvim): 🍿 A collection of QoL plugins for Neovim
 - [folke/flash.nvim](https://github.com/folke/flash.nvim): Navigate your code with search labels, enhanced character motions and Treesitter integration
-- [SylvanFranklin/keyboard](https://github.com/SylvanFranklin/keyboard): 
+- [SylvanFranklin/keyboard](https://github.com/SylvanFranklin/keyboard):
 - [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive): fugitive.vim: A Git wrapper so awesome, it should be illegal
-- [lambdalisue/nvim-aibo](https://github.com/lambdalisue/nvim-aibo): 🐶 Aibo -  AI Bot Integration and Orchestration for Neovim
+- [lambdalisue/nvim-aibo](https://github.com/lambdalisue/nvim-aibo): 🐶 Aibo - AI Bot Integration and Orchestration for Neovim
 - [karpathy/nanochat](https://github.com/karpathy/nanochat): The best ChatGPT that $100 can buy.
 - [virattt/dexter](https://github.com/virattt/dexter): An autonomous agent for deep financial research
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim): Git integration for buffers
-- [nvim-mini/mini.diff](https://github.com/nvim-mini/mini.diff): Work with diff hunks. Part of 'mini.nvim' library. 
-- [microsoft/amplifier](https://github.com/microsoft/amplifier): 
+- [nvim-mini/mini.diff](https://github.com/nvim-mini/mini.diff): Work with diff hunks. Part of 'mini.nvim' library.
+- [microsoft/amplifier](https://github.com/microsoft/amplifier):
 - [cloudflare/cloudflare-typescript](https://github.com/cloudflare/cloudflare-typescript): The official Typescript library for the Cloudflare API
 - [anthropics/skills](https://github.com/anthropics/skills): Public repository for Agent Skills
 - [imputnet/helium](https://github.com/imputnet/helium): Private, fast, and honest web browser
 - [github/spec-kit](https://github.com/github/spec-kit): 💫 Toolkit to help you get started with Spec-Driven Development
-- [colin-ho/Sashimi4Talent](https://github.com/colin-ho/Sashimi4Talent): 
+- [colin-ho/Sashimi4Talent](https://github.com/colin-ho/Sashimi4Talent):
 - [steveyegge/beads](https://github.com/steveyegge/beads): Beads - A memory upgrade for your coding agent
 - [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua): Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot
 - [firecrawl/firecrawl-app-examples](https://github.com/firecrawl/firecrawl-app-examples): 🔥 This repository contains complete application examples, including websites and other projects, developed using Firecrawl.
@@ -154,23 +147,23 @@ An agentic AI engine that reverse-engineers the job market. It automates market 
 - [github/copilot.vim](https://github.com/github/copilot.vim): Neovim plugin for GitHub Copilot
 - [qdrant/mcp-server-qdrant](https://github.com/qdrant/mcp-server-qdrant): An official Qdrant Model Context Protocol (MCP) server implementation
 - [datalab-to/marker](https://github.com/datalab-to/marker): Convert PDF to markdown + JSON quickly with high accuracy
-- [asadm/markdowndown](https://github.com/asadm/markdowndown): 
+- [asadm/markdowndown](https://github.com/asadm/markdowndown):
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master): An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [neovim/neovim.github.io](https://github.com/neovim/neovim.github.io): Neovim website
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra): The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
 - [snarktank/code-editing-agent](https://github.com/snarktank/code-editing-agent): A simple AI developer agent
 - [snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks): A simple task management system for managing AI dev agents
 - [snarktank/ai-pr-review](https://github.com/snarktank/ai-pr-review): A robust GitHub Actions workflow that provides AI-powered code reviews using Amp or Claude Code
-- [starship/starship](https://github.com/starship/starship): ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [starship/starship](https://github.com/starship/starship): ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [aciidic/thegreatsuspender-notrack](https://github.com/aciidic/thegreatsuspender-notrack): A chrome extension for suspending all tabs to free up memory, privacy-oriented with no analytics tracking.
 - [gradle/gradle](https://github.com/gradle/gradle): Adaptable, fast automation for all
 - [cashapp/licensee](https://github.com/cashapp/licensee): Gradle plugin which validates the licenses of your dependency graph match what you expect
-- [deepseek-ai/DeepSeek-V3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp): 
+- [deepseek-ai/DeepSeek-V3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp):
 - [sjarmak/deploy-sourcegraph-docker](https://github.com/sjarmak/deploy-sourcegraph-docker): Sourcegraph with Docker Compose deployment reference
-- [sjarmak/amp-orchestra-sdk](https://github.com/sjarmak/amp-orchestra-sdk): 
-- [sourcegraph-sj/amp-session-orchestrator](https://github.com/sourcegraph-sj/amp-session-orchestrator): 
+- [sjarmak/amp-orchestra-sdk](https://github.com/sjarmak/amp-orchestra-sdk):
+- [sourcegraph-sj/amp-session-orchestrator](https://github.com/sourcegraph-sj/amp-session-orchestrator):
 - [sphamba/smear-cursor.nvim](https://github.com/sphamba/smear-cursor.nvim): 🌠 Neovim plugin to animate the cursor with a smear effect in all terminals
-- [folke/dot](https://github.com/folke/dot): ☕️   My Dot Files
+- [folke/dot](https://github.com/folke/dot): ☕️ My Dot Files
 - [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview): GitHub CLI extension to preview Markdown looks like GitHub.
 - [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim): Your Neovim AI sidekick
 - [stefanoamorelli/sec-edgar-toolkit](https://github.com/stefanoamorelli/sec-edgar-toolkit): 🏛️ Open-source toolkit for accessing SEC EDGAR financial data with Python and TypeScript/JavaScript SDKs. Features comprehensive parsing for 10-K, 10-Q, 8-K forms, XBRL financial data extraction, and real-time company filings retrieval.
@@ -183,15 +176,15 @@ An agentic AI engine that reverse-engineers the job market. It automates market 
 - [DariusLukasukas/stocks](https://github.com/DariusLukasukas/stocks): Modern stock tracking application built with Next.js 14, React.js, Shadcn and Tailwind CSS. Leverages the Yahoo Finance API for real-time quotes, company financials, customizable charts, and relevant market news.
 - [neovim/tree-sitter-vimdoc](https://github.com/neovim/tree-sitter-vimdoc): Tree-sitter parser for Vim help files
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide): A guide to using Lua in Neovim
-- [pim97/scrappey.js](https://github.com/pim97/scrappey.js):  Scrappey.js: A versatile JavaScript wrapper for Scrappey API for solving Cloudflare, datadome, enabling seamless web scraping of anti-bot protected websites. Simplify data extraction with robust functionality and reliable results. Unlock valuable insights effortlessly. Get started with Scrappey
+- [pim97/scrappey.js](https://github.com/pim97/scrappey.js): Scrappey.js: A versatile JavaScript wrapper for Scrappey API for solving Cloudflare, datadome, enabling seamless web scraping of anti-bot protected websites. Simplify data extraction with robust functionality and reliable results. Unlock valuable insights effortlessly. Get started with Scrappey
 - [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim): Library of 40+ independent Lua modules improving Neovim experience with minimal effort
-- [shreyas44/s3-url-handler](https://github.com/shreyas44/s3-url-handler): 
+- [shreyas44/s3-url-handler](https://github.com/shreyas44/s3-url-handler):
 - [allyourcodebase/ffmpeg](https://github.com/allyourcodebase/ffmpeg): FFmpeg Zig package
 - [seatedro/glyph](https://github.com/seatedro/glyph): convert images, video to ascii!
 - [Sin-cy/dotfiles](https://github.com/Sin-cy/dotfiles): ⌨️ The never ending updates of my dotfiles config
 - [trailofbits/mcp-context-protector](https://github.com/trailofbits/mcp-context-protector): MCP security wrapper
 - [BlueBubblesApp/bluebubbles-server](https://github.com/BlueBubblesApp/bluebubbles-server): Server for forwarding iMessages to clients within the BlueBubbles App ecosystem
-- [ThariqS/ClaudeCodeSDK-EmailAgentExample](https://github.com/ThariqS/ClaudeCodeSDK-EmailAgentExample): 
+- [ThariqS/ClaudeCodeSDK-EmailAgentExample](https://github.com/ThariqS/ClaudeCodeSDK-EmailAgentExample):
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter): 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.
 - [specpulse/specpulse](https://github.com/specpulse/specpulse): Specification-Driven Development (SDD) Framework
 - [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime): Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
