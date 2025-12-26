@@ -36,8 +36,6 @@ From 2020 to 2021, I launched a revolutionary machine learning platform that ana
 
 > _The first Google Cloud invoice, nearly matching my bid, marked a turning point. It prompted me to pause everything and dedicate myself to mastering cloud management to preserve Katana’s potential._
 
-**(Read the Full Story, Looker Prototypes, and Whitepapers [here](https://tr.ee/HSGNNwT_Lp))**
-
 ---
 
 ### 🧰 Skills & Expertise
