@@ -29,8 +29,17 @@ jobs:
         run: |
           python stars.py --token ${{ secrets.GITHUB_TOKEN }} --user thecatfix --output README.md --max 100
 
-      - name: Create Pull Request
-        run: .github/scripts/create-pr.sh
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes to README.md, skipping push"
+          else
+            git commit -m "🤖 Update README.md with latest starred repos [skip ci]"
+            git push origin main
+          fi
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
