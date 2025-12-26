@@ -12,21 +12,25 @@ if git diff --staged --quiet; then
   exit 0
 fi
 
-# Create a new branch for the PR
-BRANCH_NAME="update-starred-repos-$(date +%Y%m%d-%H%M%S)"
+# Use a consistent branch name instead of a timestamped one
+BRANCH_NAME="automated-starred-repos-update"
 
-# Commit changes to new branch
-git checkout -b "$BRANCH_NAME"
+# Create/Reset the branch and commit
+git checkout -B "$BRANCH_NAME"
 git commit -m "🤖 Update README.md with latest starred repos"
 
-# Push the branch
-git push origin "$BRANCH_NAME"
+# Force push to the stable branch
+git push origin "$BRANCH_NAME" --force
 
-# Create PR using GitHub CLI
-gh pr create \
-  --title "🤖 Update starred repositories list" \
-  --body "## 🤖 Automated Update
+# Check if a PR already exists for this branch
+PR_EXISTS=$(gh pr list --head "$BRANCH_NAME" --base main --json number --jq '.[0].number')
 
+if [ -z "$PR_EXISTS" ]; then
+  # Create PR using GitHub CLI if it doesn't exist
+  gh pr create \
+    --title "🤖 Update starred repositories list" \
+    --body "## 🤖 Automated Update
+    
 This PR updates the README.md with the latest starred repositories from GitHub.
 
 ### Changes
@@ -35,5 +39,8 @@ This PR updates the README.md with the latest starred repositories from GitHub.
 
 ---
 *This PR was automatically created by the [stars.yml](.github/workflows/stars.yml) workflow.*" \
-  --base main \
-  --head "$BRANCH_NAME"
+    --base main \
+    --head "$BRANCH_NAME"
+else
+  echo "Pull request already exists (#$PR_EXISTS). Branch has been updated."
+fi
