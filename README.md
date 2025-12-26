@@ -76,6 +76,7 @@ From 2020 to 2021, I launched a revolutionary machine learning platform that ana
 ### ✍️ Posts From [The Soggy Blog](https://www.catfix.biz)
 
 <!-- BLOG-POST-LIST:START -->
+
 - **Latest: [The LEI is the key &#38; the key is the LEI](https://www.catfix.biz/posts/the-lei-is-the-key-the-key-is-the-lei)** 🚀
 - [Where the hell did my axe go?](https://www.catfix.biz/posts/where-the-hell-did-my-axe-go)
 - [Sooooo.....that's what a cluster is!!!](https://www.catfix.biz/posts/explain_a_cluster_to_me_as_if_i_was_15)
@@ -85,7 +86,7 @@ From 2020 to 2021, I launched a revolutionary machine learning platform that ana
 
 ### 🔗 Connections
 
-[LinkedIn](https://www.linkedin.com/company/katana-labs) | [Twitter/X](https://x.com/katana_labs) | [Notion Portfolio](https://www.notion.so/157ef6d53cbd81bba356edf8d541b008?pvs=21) | [Gists](https://gist.github.com/thecatfix)
+[LinkedIn](https://www.linkedin.com/company/katana-labs) | [Twitter/X](https://x.com/katana_labs) | [Portfolio](https://www.johnshelburne.com) | [Gists](https://gist.github.com/thecatfix)
 
 ---
 
