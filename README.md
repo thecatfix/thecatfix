@@ -1,5 +1,5 @@
 # Technical Leader | Domain Developer | AI Orchestrator
-
+[![Tokscale Stats](https://tokscale.ai/api/embed/thecatfix/svg)](https://tokscale.ai/u/thecatfix)
 <img src="https://media.giphy.com/media/qsG9kDQCJYuiO9JOtS/giphy.gif" width="25%" align="right">
 
 **The wild journey from Domain Specialist to Domain Developer that understands the complexities of the technology that powers the fixed income markets and uses agentic coding to build practical solutions.**
